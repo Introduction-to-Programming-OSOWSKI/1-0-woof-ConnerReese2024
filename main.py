@@ -1,3 +1,3 @@
-def Woof():
+def woof():
     return "woof"
 
